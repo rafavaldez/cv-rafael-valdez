@@ -2,12 +2,13 @@
 
 Sitio estático en HTML, CSS y JavaScript. No requiere compilación ni instalación.
 
-## Publicar en GitHub Pages
+## Sitio publicado
 
-1. Sube `index.html`, `styles.css`, `script.js`, `.nojekyll` y toda la carpeta `assets` a la raíz de tu repositorio.
-2. En GitHub abre **Settings → Pages**.
-3. Selecciona **Deploy from a branch**, rama `main`, carpeta **/(root)** y guarda.
-4. GitHub mostrará la dirección cuando termine el despliegue.
+GitHub Pages está activo desde la rama `main`, carpeta **/(root)**:
+
+https://rafavaldez.github.io/cv-rafael-valdez/
+
+Los cambios enviados a `main` actualizan el sitio automáticamente.
 
 Los enlaces relativos funcionan también bajo `usuario.github.io/repositorio/`. Debes subir todos los archivos, no solamente el HTML.
 

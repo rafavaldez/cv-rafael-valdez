@@ -1,5 +1,6 @@
-.preview-browser/
+.preview-browser*/
 .preview-browser-debug/
 .preview-check.cjs
 preview-*.png
 cv-web-github-pages.zip
+scratch/
